@@ -6,3 +6,4 @@
 3. CSS Variables
 4. Array Cardio
 5. Flex Panel Gallery
+6. Type Ahead
