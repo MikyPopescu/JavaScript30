@@ -9,4 +9,5 @@
 6. Type Ahead
 7. Array Cardio 2
 8. HTML5 Canvas
-10. Dev Tools
+9. Dev Tools
+10. CheckBoxes
