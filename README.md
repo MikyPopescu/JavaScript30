@@ -11,3 +11,4 @@
 8. HTML5 Canvas
 9. Dev Tools
 10. CheckBoxes
+11. Video Player
