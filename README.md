@@ -12,5 +12,6 @@
 9. Dev Tools
 10. CheckBoxes
 11. Video Player
-12. KONAMI Code
+12. Key Sequence Detection
 13. Slide In On Scroll
+14. Reference vs Copy
