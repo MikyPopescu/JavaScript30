@@ -15,3 +15,4 @@
 12. Key Sequence Detection
 13. Slide In On Scroll
 14. Reference vs Copy
+15. Local Storage
