@@ -18,3 +18,4 @@
 15. Local Storage
 16. Mouse Move Effect
 17. Sort Without Articles
+18. Adding Up Times with Reduce
