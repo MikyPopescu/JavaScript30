@@ -22,3 +22,4 @@
 19. Webcam Fun
 20. Speech Detection
 21. Geolocation
+22. Follow Along Links
