@@ -20,3 +20,4 @@
 17. Sort Without Articles
 18. Adding Up Times with Reduce
 19. Webcam Fun
+20. Speech Detection
