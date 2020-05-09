@@ -25,3 +25,4 @@
 22. Follow Along Links
 23. Text To Speech
 24. Sticky Nav
+25. Event Listener
