@@ -24,3 +24,4 @@
 21. Geolocation
 22. Follow Along Links
 23. Text To Speech
+24. Sticky Nav
