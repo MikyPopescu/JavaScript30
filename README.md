@@ -29,3 +29,4 @@
 26. Follow Along Nav
 27. Click and Drag
 28. Video Speed Controller
+29. Countdown Timer
