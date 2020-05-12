@@ -28,3 +28,4 @@
 25. Event Listener
 26. Follow Along Nav
 27. Click and Drag
+28. Video Speed Controller
