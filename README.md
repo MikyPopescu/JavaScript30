@@ -27,3 +27,4 @@
 24. Sticky Nav
 25. Event Listener
 26. Follow Along Nav
+27. Click and Drag
