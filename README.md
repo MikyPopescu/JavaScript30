@@ -26,3 +26,4 @@
 23. Text To Speech
 24. Sticky Nav
 25. Event Listener
+26. Follow Along Nav
